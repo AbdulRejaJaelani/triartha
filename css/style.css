@@ -72,6 +72,7 @@ body {
 }
 
 .img-hero-banner {
+    margin-right: -70px;
     width: auto;
     height: 355px;
 }
