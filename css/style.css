@@ -367,7 +367,7 @@ body {
 .wrraper-box-testimonial .box {
     margin: 56px 0 0 0;
     padding: 24px;
-    width: 410.67px;
+    width: 30%;
     height: 292px;
     background: #FFFFFF;
     border: 1px solid #E7EAEC;
@@ -668,3 +668,98 @@ body {
     width: 26.55px;
     height: 26.55px;
 }
+
+@media only screen and (max-width: 600px) and (min-height: 600px){
+    .navbar {
+        padding: 0 10px;
+    }
+
+    .navbar .menu {
+        display: none;
+    }
+
+    .hero-banner {
+        padding: 76px 0 78px 0px;
+    }
+
+    .content-hero-banner, .content-about {
+        padding: 10px;
+    }
+
+    .content-hero-banner, .content-hero-banner .text, .form-subcribe, .img-hero-banner, .about img, .about .text {
+        width: 100%;
+    }   
+
+    .img-hero-banner {
+        margin: 0;
+        height: auto;
+    }
+
+    .specialist-info .wrraper-box .box:nth-child(2){
+        margin: 32px 0 0 0;
+    }
+
+    .about {
+        flex-direction: column-reverse;
+    }
+
+    .about img {
+        height: auto;
+    }
+
+    .content-about {
+        margin: 0;
+    }
+
+    .services .wrraper-box {
+        flex-wrap: nowrap;
+    }
+
+    .one-two, .one-three, .two-one, .two-three, .three-one, .three-two {
+        display: none;
+    }
+
+    .wrraper-box-testimonial .box {
+        width: 100%;
+        padding: 12px;    
+    }
+
+    .portfolio {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .wrraper-btn-portfolio {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .wrraper-btn-portfolio .btn {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .hero-banner, .wrraper-box, .container-title-testimonial {
+        flex-direction: column;
+    }
+
+    .swiper {
+        width: 90%;
+    }
+}
+/* 
+@media only screen and (min-width: 480px) and (max-width: 900px) and (orientation: landscape){
+
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 1440px) {
+
+} */
