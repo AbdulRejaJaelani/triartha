@@ -673,6 +673,7 @@ body {
     height: 26.55px;
 }
 
+/* RESPONSIVE */
 @media only screen and (max-width: 600px) and (min-height: 600px){
     .navbar {
         padding: 0 10px;
@@ -705,7 +706,23 @@ body {
     }
 
     .hero-banner {
-        padding: 76px 0 78px 0px;
+        padding: 76px 0 0 0;
+    }
+
+    .specialist-info {
+        padding: 0 0 60px 0;
+    }
+
+    .services {
+        padding: 70px 0 0 0;
+    }
+
+    .testimonial {
+        padding: 50px 0 0 0;
+    }
+
+    .portfolio {
+        padding: 70px 85px 30px 85px;
     }
 
     .content-hero-banner, .content-about {
@@ -777,6 +794,11 @@ body {
 
     .swiper {
         width: 90%;
+    }
+
+    .social-media {
+        display: flex;
+        flex-direction: row;
     }
 }
 /* 
