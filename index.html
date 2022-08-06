@@ -48,6 +48,7 @@
                     </li>
                 </ul>
             </div>
+            <img src="images/list.svg" alt="" class="burger-dropdown">
         </div>
         <!-- Navbar end -->
         
@@ -87,7 +88,7 @@
         <!-- Specialist box start -->
         <div class="wrraper-box">
             <div class="box">
-                <img src="/home/galleryh/dev.app.my.id/Images/image5.png" alt="">
+                <img src="images/Vector.svg" alt="">
                 <p class="title-box">Lorem Ipsum</p>
                 <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
             </div>
@@ -192,7 +193,7 @@
             <div class="container-box-testimonial">
                 <!-- Testimonial 1 box start -->
                 <div class="wrraper-box-testimonial">
-                    <div class="box">
+                    <div class="box one-one">
                         <div class="img-header">
                             <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
@@ -203,7 +204,7 @@
                             Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box one-two">
                         <div class="img-header">
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
@@ -213,7 +214,7 @@
                             ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box one-three">
                         <div class="img-header">
                             <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
@@ -229,7 +230,7 @@
     
                 <!-- Testimonial 2 box start -->
                 <div class="wrraper-box-testimonial">
-                    <div class="box">
+                    <div class="box two-one">
                         <div class="img-header">
                             <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
@@ -240,7 +241,7 @@
                             Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box two-two">
                         <div class="img-header">
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
@@ -250,7 +251,7 @@
                             ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box two-three">
                         <div class="img-header">
                             <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
@@ -266,7 +267,7 @@
     
                 <!-- Testimonial 3 box start -->
                 <div class="wrraper-box-testimonial">
-                    <div class="box">
+                    <div class="box three-one">
                         <div class="img-header">
                             <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
@@ -277,7 +278,7 @@
                             Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box three-two">
                         <div class="img-header">
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
@@ -287,7 +288,7 @@
                             ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
                         </p>
                     </div>
-                    <div class="box">
+                    <div class="box three-three">
                         <div class="img-header">
                             <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
@@ -502,8 +503,16 @@
 
     <!-- Initialize Swiper -->
     <script>
+        let windowWidthSize = screen.width;
+        let setSlidePerView;
+        console.log(windowWidthSize);
+        if(windowWidthSize < 600)
+            setSlidePerView = 3
+        else
+            setSlidePerView = 5
+
         var swiper = new Swiper(".mySwiper", {
-            slidesPerView: 5,
+            slidesPerView: setSlidePerView,
             loop: true,
             spaceBetween: 30,
             centeredSlides: true,
