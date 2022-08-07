@@ -144,12 +144,15 @@ function category4() {
 
 const buttonDropdown = document.querySelector(".burger-dropdown");
 buttonDropdown.addEventListener("click", function(){
+    const overlayMenu = document.querySelector('.overlay-menu-mobile');
     let navbarMenu = document.querySelector(".menu");
     if (navbarMenu.style.display === "block"){
         navbarMenu.style.display = "none";
-        navbarMenu.style.animation = 'fade-left 1s forwards';
+        overlayMenu.style.display = "none";
     } else {
         navbarMenu.style.display = "block";
         navbarMenu.style.animation = 'fade-right 1s forwards';
+        overlayMenu.style.display = "block";
+        overlayMenu.style.animation = 'fade 1s forwards';
     }
 });
