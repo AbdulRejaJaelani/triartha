@@ -139,3 +139,14 @@ function category4() {
     gallery1.classList.remove('gallery-active');
 
 }
+
+// Burger Dropdown
+
+const buttonDropdown = document.querySelector(".burger-dropdown");
+buttonDropdown.addEventListener("click", function(){
+    let navbarMenu = document.querySelector(".menu");
+    if (navbarMenu.style.display === "block")
+        navbarMenu.style.display = "none";
+    else
+        navbarMenu.style.display = "block";
+});

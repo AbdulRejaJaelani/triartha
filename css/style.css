@@ -44,6 +44,10 @@ body {
     z-index: 9999;
 }
 
+.navbar > img {
+    display: none;
+}
+
 .menu ul {
     display: flex;
     list-style: none;
@@ -669,6 +673,7 @@ body {
     height: 26.55px;
 }
 
+/* RESPONSIVE */
 @media only screen and (max-width: 600px) and (min-height: 600px){
     .navbar {
         padding: 0 10px;
@@ -676,10 +681,48 @@ body {
 
     .navbar .menu {
         display: none;
+        position: fixed;
+        left: 0;
+        top: 76px;
+        background-color: rgba(255, 255, 255, 0.9);
+        width: 100%;
+        text-align: right;
+    }
+
+    .navbar .menu ul {
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+
+    .navbar .menu ul li{
+        flex-direction: column;
+        padding: 12px 18px;
+    }
+
+    .navbar > img {
+        max-width: 100%;
+        height: 50%;
+        display: block;
     }
 
     .hero-banner {
-        padding: 76px 0 78px 0px;
+        padding: 76px 0 0 0;
+    }
+
+    .specialist-info {
+        padding: 0 0 60px 0;
+    }
+
+    .services {
+        padding: 70px 0 0 0;
+    }
+
+    .testimonial {
+        padding: 50px 0 0 0;
+    }
+
+    .portfolio {
+        padding: 70px 85px 30px 85px;
     }
 
     .content-hero-banner, .content-about {
@@ -722,6 +765,8 @@ body {
     .wrraper-box-testimonial .box {
         width: 100%;
         padding: 12px;    
+        margin: 20px 0;
+        overflow-y: hidden;
     }
 
     .portfolio {
@@ -736,15 +781,24 @@ body {
 
     .wrraper-btn-portfolio .btn {
         text-align: center;
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .hero-banner, .wrraper-box, .container-title-testimonial {
         flex-direction: column;
     }
 
+    .gallery {
+        grid-gap: 10px
+    }
+
     .swiper {
         width: 90%;
+    }
+
+    .social-media {
+        display: flex;
+        flex-direction: row;
     }
 }
 /* 
