@@ -145,8 +145,11 @@ function category4() {
 const buttonDropdown = document.querySelector(".burger-dropdown");
 buttonDropdown.addEventListener("click", function(){
     let navbarMenu = document.querySelector(".menu");
-    if (navbarMenu.style.display === "block")
+    if (navbarMenu.style.display === "block"){
         navbarMenu.style.display = "none";
-    else
+        navbarMenu.style.animation = 'fade-left 1s forwards';
+    } else {
         navbarMenu.style.display = "block";
+        navbarMenu.style.animation = 'fade-right 1s forwards';
+    }
 });
