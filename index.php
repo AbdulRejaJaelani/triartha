@@ -51,7 +51,7 @@
                     </li>
                 </ul>
             </div>
-            <img src="images/list.svg" alt="" class="burger-dropdown">
+            <div class="burger-dropdown"></div>
         </div>
         <div class="overlay-menu-mobile"></div>
         <!-- Navbar end -->

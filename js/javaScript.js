@@ -141,9 +141,11 @@ function category4() {
 }
 
 // Burger Dropdown
-
 const buttonDropdown = document.querySelector(".burger-dropdown");
 buttonDropdown.addEventListener("click", function(){
+
+    buttonDropdown.classList.toggle("active");
+
     const overlayMenu = document.querySelector('.overlay-menu-mobile');
     let navbarMenu = document.querySelector(".menu");
     if (navbarMenu.style.display === "block"){
