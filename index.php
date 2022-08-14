@@ -62,16 +62,16 @@
 
         <!-- Content hero start -->
         <div class="content-hero-banner">
-            <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">Social Media Agency</p>
+            <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">Helping Your Business Expands in the Digital World</p>
             <h1 class="title" data-aos="fade-right" data-aos-duration="2200">Social Media &<br> Digital Marketing in <b>Bali</b></h1>
             <p class="text" data-aos="fade-right" data-aos-duration="2400">
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. 
+                Bangun brand images perusahaan kamu & jalankan kampanye yang efektif. Konsultasikan sekarang! 
             </p>
 
             <!-- Form subcribe start  -->
             <form action="" method="" class="form-subcribe" data-aos="fade-right" data-aos-duration="2600">
                 <input type="email" name="email" id="email" placeholder="Enter email address">
-                <button>Subcribe</button>
+                <button>Free Konsultasi</button>
             </form>
             <!-- Form subcribe end -->
 
@@ -86,7 +86,7 @@
     <section class="specialist-info">
         <h1 class="title-section" data-aos="fade-in" data-aos-duration="2000">
             <span>why with us</span><br>
-            WHY <b>CHOOSE US?</b>
+            Kenapa <b>Memilih Kami?</b>
         </h1>
 
         <!-- Specialist box start -->
@@ -94,17 +94,17 @@
             <div class="box" data-aos="fade-up" data-aos-duration="2400">
                 <img src="images/Vector.svg" alt="">
                 <p class="title-box">We Value Our Clients</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="text-box">Kami tidak hanya fokus pada traffic engagement, tetapi juga dalam memberikan saran terbaik untuk klien. Kami memusatkan perhatian pada tujuan bisnis klien kami dan menerapkan strategi terbaik untuk membantu mencapainya.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="3000">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Created Solution</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">We Value Your Money</p>
+                <p class="text-box">Kami membuat pelanggan puas dengan ide fresh yang sesuai dengan tren terkini dalam mengembangkan pemasaran media sosial, konten, dan press release. Kami yakin biaya yang klien kami keluarkan akan sebanding dengan kualitas yang diterima.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2800">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">We Have Experts Team</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">We Value Expertise</p>
+                <p class="text-box">Bisnis klien kami dikelola oleh tim yang berkapabilitas di bidangnya demi memperoleh hasil yang maksimal. Kami berkomitmen dalam mengelola tim yang profesional dan passionate dalam membantu bisnis klien kami.</p>
             </div>
         </div>
         <!-- Specialist box end -->
@@ -116,10 +116,11 @@
 
         <!-- Content about start -->
         <div class="content-about">
-            <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">About us</p>
-            <h1 class="title" data-aos="fade-right" data-aos-duration="2200">Lorem ipsum <b>Dolor</b></h1>
+            <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">Tentang Kami</p>
+            <h1 class="title" data-aos="fade-right" data-aos-duration="2200">We know your <b>#1 focus is results and so do we!</b></h1>
             <p class="text" data-aos="fade-right" data-aos-duration="2400">
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                Tree Artha Digital adalah social media agency dari Bali yang akan membantu kamu untuk terhubung, berkolaborasi, dan mengetahui apa yang pelanggan kamu inginkan.
+                Kami paham tiap perusahaan memiliki ciri khasnya masing-masing. Oleh karena itu, kami hadir untuk membantu kamu menerapkan strategi pemasaran dan periklanan yang modern serta sesuai untuk menjangkau calon pembeli.
             </p>
             <div class="btn-about" data-aos="fade-right" data-aos-duration="2600">
                 <a href="" class="btn-contact-us">Contact Us</a>
@@ -132,40 +133,43 @@
     <section class="services" id="services">
         <h1 class="title-section" data-aos="fade-in" data-aos-duration="2000">
             <span>services</span><br>
-            Our <b>Services</b>
+            Layanan <b>Utama Kami</b>
         </h1>
+        <p class="desc-services">
+            Apa yang dapat dilakukan oleh sebuah full-service advertising agency? Tim kami memiliki keahlian dalam pemasaran media sosial, branding identity, foto & videografi, dan penulisan konten. Kami dapat mengelola semua aspek digital perusahaan klien kami, dari pembuatan konten hingga kampanye efektif demi mencapai tujuan bisnis yang diinginkan.
+        </p>
 
         <!-- Specialist box start -->
         <div class="wrraper-box">
             <div class="box" data-aos="fade-up" data-aos-duration="2000">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Social Media Marketing</p>
+                <p class="text-box">Kami merancang strategi media sosial dari pengembangan ide, pembuatan konten, penjadwalan, hingga laporan bulanan.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2100">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Brand Identity</p>
+                <p class="text-box">Kami merancang dan mewujudkan wajah identitas bisnis terbaik untuk bisnis klien kami.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2200">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Photographer & Videography</p>
+                <p class="text-box">Kami merealisasikan ide bisnis klien kami dengan visual grafis yang menawan dan memikat bagi konsumen.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2300">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Motion Graphics</p>
+                <p class="text-box">Kami menyampaikan kampanye yang mudah diterima oleh konsumen dengan memanfaatkan animasi yang menarik.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2400">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Press Release</p>
+                <p class="text-box">Kami membantu bisnis klien kami tampil di media cetak maupun digital untuk meningkatkan brand awareness konsumen.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2500">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
-                <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
+                <p class="title-box">Web Development</p>
+                <p class="text-box">Kami membantu perancangan dan pembuatan web yang profesional untuk meningkatkan kepercayaan konsumen.</p>
             </div>
         </div>
         <!-- Specialist box end -->
@@ -199,19 +203,19 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
+                            <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
-                        $text1 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text1 = "“From the initial briefing, designing phase, to the content scheduling process, everything was in line with my expectations. The meeting process can be online or offline and still provide solutions to problems that my business was experiencing efficiently.”";
 
-                        $text2 = "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text2 = "“I found it easier to work with Tree Artha Digital because I don't have to think about content ideas completely from scratch. In addition, the team was also able to provide a lot of fresh ideas!”";
 
-                        $text3 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text3 = "“While working with Tree Artha Digital, the team's service was quite good and responsive. The initiative from the team was perfect for sharing on social media.”";
                         
                         ?>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Satria MW</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text1) > 50 ? substr($text1,0,200)."..." : $text1)  ?>
                         </p>
@@ -221,17 +225,17 @@
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text2) > 50 ? substr($text2,0,200)."..." : $text2)  ?>
                         </p>
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
+                            <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text3) > 50 ? substr($text3,0,200)."..." : $text3)  ?>
                         </p>
@@ -243,19 +247,19 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
+                            <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
-                        $text1 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text1 = "“From the initial briefing, designing phase, to the content scheduling process, everything was in line with my expectations. The meeting process can be online or offline and still provide solutions to problems that my business was experiencing efficiently.”";
 
-                        $text2 = "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text2 = "“I found it easier to work with Tree Artha Digital because I don't have to think about content ideas completely from scratch. In addition, the team was also able to provide a lot of fresh ideas!”";
 
-                        $text3 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text3 = "“While working with Tree Artha Digital, the team's service was quite good and responsive. The initiative from the team was perfect for sharing on social media.”";
                         
                         ?>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Satria MW</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text1) > 50 ? substr($text1,0,200)."..." : $text1)  ?>
                         </p>
@@ -265,17 +269,17 @@
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text2) > 50 ? substr($text2,0,200)."..." : $text2)  ?>
                         </p>
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
+                            <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text3) > 50 ? substr($text3,0,200)."..." : $text3)  ?>
                         </p>
@@ -287,19 +291,19 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
+                            <img src="images/Rectangle 731.webp" alt="">
                             <img src="images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
-                        $text1 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text1 = "“From the initial briefing, designing phase, to the content scheduling process, everything was in line with my expectations. The meeting process can be online or offline and still provide solutions to problems that my business was experiencing efficiently.”";
 
-                        $text2 = "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text2 = "“I found it easier to work with Tree Artha Digital because I don't have to think about content ideas completely from scratch. In addition, the team was also able to provide a lot of fresh ideas!”";
 
-                        $text3 = "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.";
+                        $text3 = "“While working with Tree Artha Digital, the team's service was quite good and responsive. The initiative from the team was perfect for sharing on social media.”";
                         
                         ?>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Satria MW</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text1) > 50 ? substr($text1,0,200)."..." : $text1)  ?>
                         </p>
@@ -309,17 +313,17 @@
                             <img src="images/Rectangle 730.webp" alt="">
                             <img src="images/Frame 261.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text2) > 50 ? substr($text2,0,200)."..." : $text2)  ?>
                         </p>
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
+                            <img src="images/Rectangle 729.webp" alt="">
                             <img src="images/Frame 262.webp" alt="">
                         </div>
-                        <p class="name-testimonial">Floyd Miles</p>
+                        <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
                             <?= (str_word_count($text3) > 50 ? substr($text3,0,200)."..." : $text3)  ?>
                         </p>
