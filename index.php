@@ -86,24 +86,24 @@
     <section class="specialist-info">
         <h1 class="title-section" data-aos="fade-in" data-aos-duration="2000">
             <span>why with us</span><br>
-            We are <b>specialist</b>
+            WHY <b>CHOOSE US?</b>
         </h1>
 
         <!-- Specialist box start -->
         <div class="wrraper-box">
             <div class="box" data-aos="fade-up" data-aos-duration="2400">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
+                <p class="title-box">We Value Our Clients</p>
                 <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="3000">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
+                <p class="title-box">Created Solution</p>
                 <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2800">
                 <img src="images/Vector.svg" alt="">
-                <p class="title-box">Lorem Ipsum</p>
+                <p class="title-box">We Have Experts Team</p>
                 <p class="text-box">It is a long established fact that a reader will be distracted by the readable content of a page when.</p>
             </div>
         </div>

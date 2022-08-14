@@ -971,6 +971,10 @@ body {
         grid-gap: 10px
     }
 
+    .gallery-active {
+        display: block;
+    }
+
     .wrraper-btn-portfolio {
         margin-bottom: 30px!important;
     }
