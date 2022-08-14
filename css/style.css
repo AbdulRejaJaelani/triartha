@@ -1055,6 +1055,12 @@ body {
         align-items: center;
     }
 
+    .desc-services {
+        width: 90vw;
+        height: auto;
+        font-size: 12px;
+    }
+
     .social-media {
         display: flex;
         flex-direction: row;
