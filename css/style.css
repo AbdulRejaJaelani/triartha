@@ -967,12 +967,18 @@ body {
         flex-direction: column;
     }
 
-    .gallery {
+    /* .gallery {
         grid-gap: 10px
-    }
+    } */
 
     .gallery-active {
-        display: block;
+        display: block !important;
+    }
+
+    .gallery__img {
+        margin: 0 0 20px 0;
+        width: 100%;
+        height: auto;
     }
 
     .wrraper-btn-portfolio {
