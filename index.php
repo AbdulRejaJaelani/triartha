@@ -7,7 +7,7 @@
 
     <!-- Title website -->
     <title>Triartha | Social Media Agency</title>
-    <link rel="shortcut icon" href="images/Logo TAD PNG.svg">
+    <link rel="shortcut icon" href="Images/Logo TAD PNG.svg">
 
     <!-- CDN Swiper js -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
@@ -27,7 +27,7 @@
         <!-- Navbar start -->
         <div class="navbar">
             <a href="#home">
-                <img src="images/Logo TAD PNG.svg" alt="">
+                <img src="Images/Logo TAD PNG.svg" alt="">
             </a>
             <div class="menu">
                 <ul>
@@ -79,7 +79,7 @@
         <!-- Content hero end -->
 
         <!-- Img hero -->
-        <img src="images/tst1 1.png" class="img-hero-banner" data-aos="zoom-in-up" data-aos-duration="2800">
+        <img src="Images/tst1 1.png" class="img-hero-banner" data-aos="zoom-in-up" data-aos-duration="2800">
 
     </section>
 
@@ -92,17 +92,17 @@
         <!-- Specialist box start -->
         <div class="wrraper-box">
             <div class="box" data-aos="fade-up" data-aos-duration="2400">
-                <img src="images/1.webp" alt="">
+                <img src="Images/1.webp" alt="">
                 <p class="title-box">We Value Our Clients</p>
                 <p class="text-box">Kami tidak hanya fokus pada traffic engagement, tetapi juga dalam memberikan saran terbaik untuk klien. Kami memusatkan perhatian pada tujuan bisnis klien kami dan menerapkan strategi terbaik untuk membantu mencapainya.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="3000">
-                <img src="images/2.webp" alt="">
+                <img src="Images/2.webp" alt="">
                 <p class="title-box">We Value Your Money</p>
                 <p class="text-box">Kami membuat pelanggan puas dengan ide fresh yang sesuai dengan tren terkini dalam mengembangkan pemasaran media sosial, konten, dan press release. Kami yakin biaya yang klien kami keluarkan akan sebanding dengan kualitas yang diterima.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2800">
-                <img src="images/3.webp" alt="">
+                <img src="Images/3.webp" alt="">
                 <p class="title-box">We Value Expertise</p>
                 <p class="text-box">Bisnis klien kami dikelola oleh tim yang berkapabilitas di bidangnya demi memperoleh hasil yang maksimal. Kami berkomitmen dalam mengelola tim yang profesional dan passionate dalam membantu bisnis klien kami.</p>
             </div>
@@ -112,7 +112,7 @@
     </section>
 
     <section class="about" id="about">
-        <img src="images/2496 1.webp" alt="" data-aos="fade-out" data-aos-duration="3000">
+        <img src="Images/2496 1.webp" alt="" data-aos="fade-out" data-aos-duration="3000">
 
         <!-- Content about start -->
         <div class="content-about">
@@ -142,32 +142,32 @@
         <!-- Specialist box start -->
         <div class="wrraper-box">
             <div class="box" data-aos="fade-up" data-aos-duration="2000">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Social Media Marketing</p>
                 <p class="text-box">Kami merancang strategi media sosial dari pengembangan ide, pembuatan konten, penjadwalan, hingga laporan bulanan.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2100">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Brand Identity</p>
                 <p class="text-box">Kami merancang dan mewujudkan wajah identitas bisnis terbaik untuk bisnis klien kami.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2200">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Photographer & Videography</p>
                 <p class="text-box">Kami merealisasikan ide bisnis klien kami dengan visual grafis yang menawan dan memikat bagi konsumen.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2300">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Motion Graphics</p>
                 <p class="text-box">Kami menyampaikan kampanye yang mudah diterima oleh konsumen dengan memanfaatkan animasi yang menarik.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2400">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Press Release</p>
                 <p class="text-box">Kami membantu bisnis klien kami tampil di media cetak maupun digital untuk meningkatkan brand awareness konsumen.</p>
             </div>
             <div class="box" data-aos="fade-up" data-aos-duration="2500">
-                <img src="images/Vector.svg" alt="">
+                <img src="Images/Vector.svg" alt="">
                 <p class="title-box">Web Development</p>
                 <p class="text-box">Kami membantu perancangan dan pembuatan web yang profesional untuk meningkatkan kepercayaan konsumen.</p>
             </div>
@@ -183,16 +183,16 @@
                 Our Customer Feedback <span>Don’t take our word for it. Trust our customers</span>
             </h1>
             <div class="wrraper-btn btn-page-1 btn-active">
-                <div class="btn-prev" style="opacity: 0.5;"><img src="images/btn-arrow.png" alt="">Previous</div>
-                <div class="btn-next" onclick="next1()">Next <img src="images/btn-arrow.png" alt=""></div>
+                <div class="btn-prev" style="opacity: 0.5;"><img src="Images/btn-arrow.png" alt="">Previous</div>
+                <div class="btn-next" onclick="next1()">Next <img src="Images/btn-arrow.png" alt=""></div>
             </div>
             <div class="wrraper-btn btn-page-2">
-                <div class="btn-prev" onclick="prev1()"><img src="images/btn-arrow.png" alt="">Previous</div>
-                <div class="btn-next" onclick="next2()">Next <img src="images/btn-arrow.png" alt=""></div>
+                <div class="btn-prev" onclick="prev1()"><img src="Images/btn-arrow.png" alt="">Previous</div>
+                <div class="btn-next" onclick="next2()">Next <img src="Images/btn-arrow.png" alt=""></div>
             </div>
             <div class="wrraper-btn btn-page-3">
-                <div class="btn-prev" onclick="prev2()"><img src="images/btn-arrow.png" alt="">Previous</div>
-                <div class="btn-next" style="opacity: 0.5;">Next <img src="images/btn-arrow.png" alt=""></div>
+                <div class="btn-prev" onclick="prev2()"><img src="Images/btn-arrow.png" alt="">Previous</div>
+                <div class="btn-next" style="opacity: 0.5;">Next <img src="Images/btn-arrow.png" alt=""></div>
             </div>
         </div>
 
@@ -202,8 +202,8 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
-                            <img src="images/Frame 260.webp" alt="">
+                            <img src="Images/Rectangle 731.webp" alt="">
+                            <img src="Images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
@@ -221,8 +221,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 730.webp" alt="">
-                            <img src="images/Frame 261.webp" alt="">
+                            <img src="Images/Rectangle 730.webp" alt="">
+                            <img src="Images/Frame 261.webp" alt="">
                         </div>
                         <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
@@ -231,8 +231,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
-                            <img src="images/Frame 262.webp" alt="">
+                            <img src="Images/Rectangle 729.webp" alt="">
+                            <img src="Images/Frame 262.webp" alt="">
                         </div>
                         <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
@@ -246,8 +246,8 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
-                            <img src="images/Frame 260.webp" alt="">
+                            <img src="Images/Rectangle 731.webp" alt="">
+                            <img src="Images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
@@ -265,8 +265,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 730.webp" alt="">
-                            <img src="images/Frame 261.webp" alt="">
+                            <img src="Images/Rectangle 730.webp" alt="">
+                            <img src="Images/Frame 261.webp" alt="">
                         </div>
                         <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
@@ -275,8 +275,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
-                            <img src="images/Frame 262.webp" alt="">
+                            <img src="Images/Rectangle 729.webp" alt="">
+                            <img src="Images/Frame 262.webp" alt="">
                         </div>
                         <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
@@ -290,8 +290,8 @@
                 <div class="wrraper-box-testimonial">
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 731.webp" alt="">
-                            <img src="images/Frame 260.webp" alt="">
+                            <img src="Images/Rectangle 731.webp" alt="">
+                            <img src="Images/Frame 260.webp" alt="">
                         </div>
                         <?php 
 
@@ -309,8 +309,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 730.webp" alt="">
-                            <img src="images/Frame 261.webp" alt="">
+                            <img src="Images/Rectangle 730.webp" alt="">
+                            <img src="Images/Frame 261.webp" alt="">
                         </div>
                         <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
@@ -319,8 +319,8 @@
                     </div>
                     <div class="box">
                         <div class="img-header">
-                            <img src="images/Rectangle 729.webp" alt="">
-                            <img src="images/Frame 262.webp" alt="">
+                            <img src="Images/Rectangle 729.webp" alt="">
+                            <img src="Images/Frame 262.webp" alt="">
                         </div>
                         <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
@@ -361,63 +361,63 @@
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image1.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="Images/image1.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--2">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image2.png" alt="Gallery image 2" class="gallery__img">
+                    <img src="Images/image2.png" alt="Gallery image 2" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--3">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image3.png" alt="Gallery image 3" class="gallery__img">
+                    <img src="Images/image3.png" alt="Gallery image 3" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--4">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image4.png" alt="Gallery image 4" class="gallery__img">
+                    <img src="Images/image4.png" alt="Gallery image 4" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--5">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image5.png" alt="Gallery image 5" class="gallery__img">
+                    <img src="Images/image5.png" alt="Gallery image 5" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--6">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image6.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image6.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--7">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image7.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image7.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--8">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image8.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image8.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--9">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image9.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image9.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
             </div>
             <!-- gallery 1 end -->
@@ -429,63 +429,63 @@
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image1.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="Images/image1.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--2">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image2.png" alt="Gallery image 2" class="gallery__img">
+                    <img src="Images/image2.png" alt="Gallery image 2" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--3">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image3.png" alt="Gallery image 3" class="gallery__img">
+                    <img src="Images/image3.png" alt="Gallery image 3" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--4">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image4.png" alt="Gallery image 4" class="gallery__img">
+                    <img src="Images/image4.png" alt="Gallery image 4" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--5">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image5.png" alt="Gallery image 5" class="gallery__img">
+                    <img src="Images/image5.png" alt="Gallery image 5" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--6">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image6.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image6.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--7">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image7.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image7.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--8">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image8.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image8.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--9">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image9.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image9.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
             </div>
             <!-- gallery 2 end -->
@@ -497,63 +497,63 @@
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image1.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="Images/image1.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--2">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image2.png" alt="Gallery image 2" class="gallery__img">
+                    <img src="Images/image2.png" alt="Gallery image 2" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--3">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image3.png" alt="Gallery image 3" class="gallery__img">
+                    <img src="Images/image3.png" alt="Gallery image 3" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--4">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image4.png" alt="Gallery image 4" class="gallery__img">
+                    <img src="Images/image4.png" alt="Gallery image 4" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--5">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image5.png" alt="Gallery image 5" class="gallery__img">
+                    <img src="Images/image5.png" alt="Gallery image 5" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--6">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image6.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image6.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--7">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image7.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image7.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--8">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image8.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image8.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--9">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image9.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image9.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
             </div>
             <!-- gallery 3 end -->
@@ -565,63 +565,63 @@
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image1.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="Images/image1.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--2">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image2.png" alt="Gallery image 2" class="gallery__img">
+                    <img src="Images/image2.png" alt="Gallery image 2" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--3">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image3.png" alt="Gallery image 3" class="gallery__img">
+                    <img src="Images/image3.png" alt="Gallery image 3" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--4">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image4.png" alt="Gallery image 4" class="gallery__img">
+                    <img src="Images/image4.png" alt="Gallery image 4" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--5">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image5.png" alt="Gallery image 5" class="gallery__img">
+                    <img src="Images/image5.png" alt="Gallery image 5" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--6">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image6.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image6.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--7">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image7.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image7.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--8">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image8.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image8.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--9">
                     <div class="overlay">
                         <h2 class="title">Lorem ipsum</h2>
                         <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis enim iure, corrupti cupiditate neque magni ipsam labore ducimus doloribus a odit distinctio ex? Eaque, fuga. Excepturi repellendus voluptatem ipsam voluptate!</p>
                     </div>
-                    <img src="images/image9.png" alt="Gallery image 6" class="gallery__img">
+                    <img src="Images/image9.png" alt="Gallery image 6" class="gallery__img">
                 </figure>
             </div>
             <!-- gallery 4 end -->
@@ -639,21 +639,21 @@
         <!-- Swiper -->
         <div class="swiper mySwiper" data-aos="fade-left" data-aos-duration="3000">
             <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="images/partner/Bali Culinary Pastry School.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Bali Food Industry.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Bali Sun Tours.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Body Crowd Indonesia.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Damara Village Official.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/DAT Indonesia.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/FITNESS PLUS SATRIA 1.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Jenggala.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Politeknik Internasional Bali 1.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Prameka Laboratorium Klinik.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Rakenz Fried Chicken.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Rempah's Herb.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/sari murni soya bali.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/SATU•ENAM COFFEE.png" alt=""></div>
-                <div class="swiper-slide"><img src="images/partner/Triloka Development 1.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Bali Culinary Pastry School.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Bali Food Industry.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Bali Sun Tours.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Body Crowd Indonesia.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Damara Village Official.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/DAT Indonesia.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/FITNESS PLUS SATRIA 1.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Jenggala.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Politeknik Internasional Bali 1.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Prameka Laboratorium Klinik.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Rakenz Fried Chicken.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Rempah's Herb.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/sari murni soya bali.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/SATU•ENAM COFFEE.png" alt=""></div>
+                <div class="swiper-slide"><img src="Images/partner/Triloka Development 1.png" alt=""></div>
             </div>
         </div>
 
@@ -665,10 +665,10 @@
         </div>
         <div class="social-media">
             <a href="">
-                <img src="images/Frame 6.png" alt="">
+                <img src="Images/Frame 6.png" alt="">
             </a>
             <a href="">
-                <img src="images/Frame 8.png" alt="">
+                <img src="Images/Frame 8.png" alt="">
             </a>
         </div>
     </section>
