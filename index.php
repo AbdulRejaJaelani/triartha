@@ -65,7 +65,7 @@
             <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">Helping Your Business Expands in the Digital World</p>
             <h1 class="title" data-aos="fade-right" data-aos-duration="2200">Social Media &<br> Digital Marketing in <b>Bali</b></h1>
             <p class="text" data-aos="fade-right" data-aos-duration="2400">
-                Bangun brand images perusahaan kamu & jalankan kampanye yang efektif. Konsultasikan sekarang! 
+                Build your company's brand image & run effective campaigns. Consult now! 
             </p>
 
             <!-- Form subcribe start  -->
@@ -85,7 +85,7 @@
 
     <section class="specialist-info">
         <h1 class="title-section" data-aos="fade-in" data-aos-duration="2000">
-            <span>why with us</span><br>
+            <span>Why Choose Us?</span><br>
             Kami adalah <b>Spesialis</b>
         </h1>
 
@@ -117,10 +117,10 @@
         <!-- Content about start -->
         <div class="content-about">
             <p class="badge-title" data-aos="fade-right" data-aos-duration="2000">About us</p>
-            <h1 class="title" data-aos="fade-right" data-aos-duration="2200">Kami tahu fokus <b>#1 Anda adalah hasil dan kami juga!</b></h1>
+            <h1 class="title" data-aos="fade-right" data-aos-duration="2200">We know your <b>#1 focus is results and so do we!</b></h1>
             <p class="text" data-aos="fade-right" data-aos-duration="2400">
-                Tree Artha Digital adalah social media agency dari Bali yang akan membantu kamu untuk terhubung, berkolaborasi, dan mengetahui apa yang pelanggan kamu inginkan.
-                Kami paham tiap perusahaan memiliki ciri khasnya masing-masing. Oleh karena itu, kami hadir untuk membantu kamu menerapkan strategi pemasaran dan periklanan yang modern serta sesuai untuk menjangkau calon pembeli.
+                Tree Artha Digital is a social media agency from Bali that will help you to connect, collaborate, and find out what your customers want.
+                We understand that each company has its characteristics. Therefore, we are here to help you implement modern and tailored marketing and advertising strategies to reach potential buyers.
             </p>
             <div class="btn-about" data-aos="fade-right" data-aos-duration="2600">
                 <a href="" class="btn-contact-us">Contact Us</a>
