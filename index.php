@@ -216,7 +216,7 @@
                         ?>
                         <p class="name-testimonial">Satria MW</p>
                         <p class="comment-testimonial">
-                            <?= (str_word_count($text1) > 50 ? substr($text1,0,200)."..." : $text1)  ?>
+                            <?= (str_word_count($text1) > 50 ? substr($text1,0,180)."..." : $text1)  ?>
                         </p>
                     </div>
                     <div class="box">
@@ -226,7 +226,7 @@
                         </div>
                         <p class="name-testimonial">Iwan K</p>
                         <p class="comment-testimonial">
-                            <?= (str_word_count($text2) > 50 ? substr($text2,0,200)."..." : $text2)  ?>
+                            <?= (str_word_count($text2) > 50 ? substr($text2,0,180)."..." : $text2)  ?>
                         </p>
                     </div>
                     <div class="box">
@@ -236,7 +236,7 @@
                         </div>
                         <p class="name-testimonial">Eka B</p>
                         <p class="comment-testimonial">
-                            <?= (str_word_count($text3) > 50 ? substr($text3,0,200)."..." : $text3)  ?>
+                            <?= (str_word_count($text3) > 50 ? substr($text3,0,180)."..." : $text3)  ?>
                         </p>
                     </div>
                 </div>
